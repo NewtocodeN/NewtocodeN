@@ -2,7 +2,7 @@
 - 👀 I’m interested in mastering code one step at time. In hopes of elevating into learning python which I've heard about.  
 - 🌱 I’m currently learning HTML, Javascript, and C++
 - 💞️ I’m looking to collaborate on anything for beginners so I can get more hands-on experience and become more knowledgeable.
-- 📫 How to reach me ... discord:Walter B #4340, w.buncom@gamil.com
+- 📫 How to reach me ... discord:Walter B #4340
 
 <!---
 NewtocodeN/NewtocodeN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
